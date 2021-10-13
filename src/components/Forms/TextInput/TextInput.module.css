@@ -1,0 +1,12 @@
+.TextInput {
+    width: 100%;
+    padding: 10px 0px;
+    border-width: 0;
+    color: #939393;
+    font-weight: 400;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.TextInput:focus {
+    outline: none;
+}
